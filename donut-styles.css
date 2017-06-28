@@ -1,0 +1,13 @@
+.donut-chart .chart-label {
+	fill: #39454e; /* dark gray */
+	font-weight: bold;
+}
+
+.donut-chart .label-group {
+	fill: #888888; /* lighter gray */
+}
+
+.donut-chart .label-group .label {
+	font-weight: bold;
+	fill: #39454e; /* dark gray */
+}
